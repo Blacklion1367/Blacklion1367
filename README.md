@@ -22,10 +22,17 @@ My work includes gameplay design, asset preparation, integration, and testing.
 
 *Currently in development.*
 
-**AI Document Automation** — A planned portfolio project demonstrating Python automation, structured data extraction, validation, human review, and automated tests.
+**[AI Document Automation](https://github.com/Blacklion1367/ai-document-automation)** — A Python automation project for processing fictional invoices, validating financial data, and recording audit events in SQLite.
 
-*Not yet released.*
+Features deterministic extraction, simulated AI workflows, structured validation, human review, and an OpenAI API adapter tested offline with mocked responses.
 
+**Technologies:** Python, SQLite, unittest, GitHub Actions.
+
+**Testing:** 175 automated tests, with successful local and GitHub Actions execution.
+
+**AI-assisted development:** Built with ChatGPT and Astra/Codex assistance, including documented testing, debugging, architecture decisions, and human supervision.
+
+*Public repository available. Live OpenAI API integration has not yet been verified.*
 ## How I Work With AI
 
 I use **ChatGPT and Astra/Codex** as development assistants and document their involvement transparently.
