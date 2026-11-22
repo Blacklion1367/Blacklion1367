@@ -16,6 +16,18 @@ Technologies: React, TypeScript, Vite, Supabase.
 
 *Source repository is private.*
 
+**[GitHub Issue Triage Agent](https://github.com/Blacklion1367/github-issue-triage-agent)** — A Python automation tool that retrieves public GitHub issues through the REST API, classifies them using deterministic rules, and prepares human-reviewed action proposals.
+
+Features read-only GitHub API integration, simulated HMAC-verified webhooks, error handling, audit logging, and automated testing.
+
+**Technologies:** Python, GitHub REST API, JSON, unittest, GitHub Actions.
+
+**Testing:** 109 automated tests passed locally, with a successful GitHub Actions workflow.
+
+**AI-assisted development:** Built with ChatGPT and Astra/Codex assistance, documenting design decisions, implementation, testing, and human supervision.
+
+*Public repository available under the MIT License. No live LLM or autonomous GitHub write operations are implemented.*
+
 **Laboratorio de Anomalías** — An independent first-person game project developed with Godot 4, GDScript, and Blender.
 
 My work includes gameplay design, asset preparation, integration, and testing.
